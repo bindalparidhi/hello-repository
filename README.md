@@ -1,2 +1,3 @@
 # hello-repository
-My first repository on GitHub
+My first repository on GitHub.
+I now will try commit command.
